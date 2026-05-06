@@ -19,7 +19,7 @@
 
 ▶️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/loan-approval-system.git
+git clone https://github.com/raajbbhattacharya/loan-approval-system.git
 cd loan-approval-system
 2. Install dependencies
 pip install -r requirements.txt
